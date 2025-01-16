@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/HHNiOS/hhnios.github.io/main/CydiaIcon.png</string>
+					<string>https://avatars.githubusercontent.com/u/137310130?v=4&size=64</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/HHNiOS/hhnios.github.io/main/CydiaIcon.png</string>
+					<string>https://avatars.githubusercontent.com/u/137310130?v=4&size=64</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.garena.game.hhniosv2</string>
+				<string>com.garena.game.kgvn1</string>
 				<key>bundle-version</key>
-				<string>1.49.1925084</string>
+				<string>1.57.11314479</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>HHNiOS</string>
+				<string>WeansHHN</string>
 				<key>title</key>
-				<string>Beta1</string>
+				<string>AOV Maps</string>
 			</dict>
 		</dict>
 	</array>
